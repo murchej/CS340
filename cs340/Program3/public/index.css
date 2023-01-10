@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: Arial;
+    font-size: 12;
+}
+
+thead{
+
+    background-color: black;
+    color: white;
+    padding: 3px;
+    font-size: 12;
+   
+}
+
+th{
+    text-align: left;
+}
+
+table{
+    width: 45%;
+    border-collapse: collapse;
+}
+
+.green_button{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+i{
+    font-size: larger;
+}
+
